@@ -25,7 +25,7 @@ The model follows a U-Net style design:
 
 Architecture diagram:
 
-![Architecture](images/architecture.jng)
+![Architecture](images/architecture.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ Custom combined loss:
 ### Qualitative Results
 
 Input (Hazy) vs Output (Predicted) vs Ground Truth 
-![sample](images/res_output.jng)
+![sample](images/res_output.jpg)
 
 ---
 
@@ -74,11 +74,11 @@ Input (Hazy) vs Output (Predicted) vs Ground Truth
 
 Decoder Training:
 
-![Decoder Loss](images/decoder_loss.jng)
+![Decoder Loss](images/decoder_loss.jpg)
 
 Fine-tuning:
 
-![Encoder Loss](images/encoder_loss.jng)
+![Encoder Loss](images/encoder_loss.jpg)
 
 ---
 
