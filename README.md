@@ -1,5 +1,5 @@
 # Image Dehazing using U-Net + MobileNetV2
-# Medium article - ...published soon
+# Medium article - https://deekshith026.medium.com/deep-image-dehazing-using-transfer-learning-and-u-net-ac0da1e2171c
 
 A deep learning project for restoring clear images from hazy inputs using a U-Net architecture with a pretrained MobileNetV2 encoder.
 
