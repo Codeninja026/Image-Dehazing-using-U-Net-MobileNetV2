@@ -23,9 +23,9 @@ The model follows a U-Net style design:
 - **Decoder**: Upsampling + Conv + BatchNorm blocks
 - **Skip Connections**: Preserve spatial details
 
-📌 Architecture diagram:
+Architecture diagram:
 
-![Architecture](images/architecture.png)
+![Architecture](images/architecture.jng)
 
 ---
 
@@ -65,9 +65,8 @@ Custom combined loss:
 
 ### Qualitative Results
 
-| Input (Hazy) | Output (Predicted) | Ground Truth |
-|-------------|------------------|--------------|
-| ![](images/sample_hazy.png) | ![](images/sample_output.png) | ![](images/sample_gt.png) |
+Input (Hazy) vs Output (Predicted) vs Ground Truth 
+![sample](images/res_output.jng)
 
 ---
 
@@ -75,11 +74,11 @@ Custom combined loss:
 
 Decoder Training:
 
-![Decoder Loss](images/decoder_loss.png)
+![Decoder Loss](images/decoder_loss.jng)
 
 Fine-tuning:
 
-![Encoder Loss](images/encoder_loss.png)
+![Encoder Loss](images/encoder_loss.jng)
 
 ---
 
