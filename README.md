@@ -66,7 +66,7 @@ Custom combined loss:
 ### Qualitative Results
 
 Input (Hazy) vs Output (Predicted) vs Ground Truth 
-![sample](images/res_output.jpg)
+![sample](images/res_output.png)
 
 ---
 
@@ -74,11 +74,11 @@ Input (Hazy) vs Output (Predicted) vs Ground Truth
 
 Decoder Training:
 
-![Decoder Loss](images/decoder_loss.jpg)
+![Decoder Loss](images/decoder_loss.png)
 
 Fine-tuning:
 
-![Encoder Loss](images/encoder_loss.jpg)
+![Encoder Loss](images/encoder_loss.png)
 
 ---
 
